@@ -8,6 +8,7 @@ html {
 
 body {
     background-color: oklch(0.9493 0.0085 210.58);
+    color: oklch(0.3328 0.034 235.32);
 }
 
 img {
