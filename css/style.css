@@ -30,8 +30,6 @@ li {
     padding: 36px;
 }
 
-
-
 .links {
     font-size: 18px;
     margin-left: 5em;
@@ -40,4 +38,8 @@ li {
 .link-item {
     padding: 8px;
     display: inline-block;
+}
+
+.step {
+    margin-bottom: 32px;
 }
