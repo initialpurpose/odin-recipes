@@ -23,3 +23,11 @@ img {
 h1 {
     text-align: center;
 }
+
+.links {
+    font-size: 18px;
+}
+
+.link-item {
+    padding: 8px;
+}
