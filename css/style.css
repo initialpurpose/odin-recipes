@@ -27,8 +27,10 @@ h1 {
 
 .links {
     font-size: 18px;
+    margin-left: 5em;
 }
 
 .link-item {
     padding: 8px;
+    display: inline-block;
 }
