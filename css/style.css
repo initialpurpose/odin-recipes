@@ -6,6 +6,20 @@ html {
     border: 0 solid;
 }
 
+body {
+    background-color: oklch(0.9493 0.0085 210.58);
+}
+
 img {
     display: block;
+}
+
+.container {
+    background-color: oklch(1 0 360);
+    margin: 50px;
+    padding: 36px;
+}
+
+h1 {
+    text-align: center;
 }
