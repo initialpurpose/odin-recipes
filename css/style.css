@@ -48,3 +48,8 @@ li {
 .step {
     margin-bottom: 32px;
 }
+
+.home-link {
+    padding: 10px;
+    font-weight: bold;
+}
